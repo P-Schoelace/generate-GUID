@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "generate-g-u-i-d:generate"
   },
-  "repository": "https://github.com/wildkiller79/generate-GUID",
+  "repository": "https://github.com/P-Schoelace/generate-GUID",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
