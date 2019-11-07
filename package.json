@@ -1,10 +1,9 @@
 {
   "name": "generate-GUID",
   "main": "./lib/generate-g-u-i-d",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Generate a GUID",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "generate-g-u-i-d:generate"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
