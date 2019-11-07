@@ -3,7 +3,7 @@
   "main": "./lib/generate-g-u-i-d",
   "version": "0.1.0",
   "description": "Generate x amount of GUIDs",
-  "keywords": [GUID, UUID, generate, Generate],
+  "keywords": ["GUID", "UUID", "generate", "Generate"],
   "activationCommands": {
     "atom-workspace": "generate-g-u-i-d:generate"
   },
