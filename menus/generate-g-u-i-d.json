@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "generate Guid",
+        "command": "generate-g-u-i-d:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "generate Guid",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "generate-g-u-i-d:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

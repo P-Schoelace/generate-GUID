@@ -1,0 +1,18 @@
+{
+  "name": "generate-GUID",
+  "main": "./lib/generate-g-u-i-d",
+  "version": "0.0.1",
+  "description": "Generate a GUID",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "generate-g-u-i-d:generate"
+  },
+  "repository": "https://github.com/atom/generate-g-u-i-d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
