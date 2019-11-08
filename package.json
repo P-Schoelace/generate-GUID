@@ -1,7 +1,7 @@
 {
   "name": "generate-GUID",
   "main": "./lib/generate-g-u-i-d",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Generate x amount of GUIDs",
   "keywords": [
     "GUID",
